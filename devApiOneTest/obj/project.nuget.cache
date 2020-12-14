@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0oPZFxZyG+3qKrhhH3QB6plzzT2cfdWezDc70et4jPnIyPglBm5+hAEBXl7cOEIqXqG2NLXOYQ6bey1yR50TaQ==",
+  "dgSpecHash": "1mtS/suqVd5FHo7G8gTOVMSkIYOgUIJy03UI2C/KXxPyZPmiFharXY1Mgjhxdqkep3wHq2f3QtB4YvK1XC96kw==",
   "success": true,
-  "projectFilePath": "C:\\Fontes\\visual.studio\\devApisTddSwageer\\devApiOneTest\\devApiOneTest.csproj",
+  "projectFilePath": "C:\\Fontes\\visual.studio\\dev.apis.tdd.swageer\\devApiOneTest\\devApiOneTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Evandio Dellatorre\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\Evandio Dellatorre\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",

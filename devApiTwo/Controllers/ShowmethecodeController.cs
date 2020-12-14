@@ -11,7 +11,7 @@ namespace devApiTwo.Controllers
     [Route("[controller]")]
     public class ShowmethecodeController
     {
-        private const string GiT_REPOSITORY = "https://github.com/evandiodellatorre/devapis.git";
+        private const string GiT_REPOSITORY = "https://github.com/evandiodellatorre/dev.apis.tdd.swageer.git";
 
         /// <summary>
         /// Metodo que retorna uma Url do repositório dos fontes no github.

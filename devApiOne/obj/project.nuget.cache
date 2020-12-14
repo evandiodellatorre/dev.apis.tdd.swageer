@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K2k21nee39bEZuy4kDtCRgzHDUqie6lUVDehv8jdABVHdzlBnC0Bm9ASCXwjxPyqFc/UiG5caez9FBJWRt0Vhg==",
+  "dgSpecHash": "Nb8bUWVRmDU+KdwnBL4ll0RNyopSlif4CDNXll12RV53M1cRIDB+28/Q4LQDY4fOOJiqXxc7k45PEl5JYQ9elg==",
   "success": true,
-  "projectFilePath": "C:\\Fontes\\visual.studio\\devApisTddSwageer\\devApiOne\\devApiOne.csproj",
+  "projectFilePath": "C:\\Fontes\\visual.studio\\dev.apis.tdd.swageer\\devApiOne\\devApiOne.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Evandio Dellatorre\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.1\\microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
     "C:\\Users\\Evandio Dellatorre\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.1\\microsoft.aspnetcore.authentication.openidconnect.5.0.1.nupkg.sha512",

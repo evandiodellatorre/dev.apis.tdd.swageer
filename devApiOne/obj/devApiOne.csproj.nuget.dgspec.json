@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Fontes\\visual.studio\\devApisTddSwageer\\devApiOne\\devApiOne.csproj": {}
+    "C:\\Fontes\\visual.studio\\dev.apis.tdd.swageer\\devApiOne\\devApiOne.csproj": {}
   },
   "projects": {
-    "C:\\Fontes\\visual.studio\\devApisTddSwageer\\devApiOne\\devApiOne.csproj": {
+    "C:\\Fontes\\visual.studio\\dev.apis.tdd.swageer\\devApiOne\\devApiOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Fontes\\visual.studio\\devApisTddSwageer\\devApiOne\\devApiOne.csproj",
+        "projectUniqueName": "C:\\Fontes\\visual.studio\\dev.apis.tdd.swageer\\devApiOne\\devApiOne.csproj",
         "projectName": "devApiOne",
-        "projectPath": "C:\\Fontes\\visual.studio\\devApisTddSwageer\\devApiOne\\devApiOne.csproj",
+        "projectPath": "C:\\Fontes\\visual.studio\\dev.apis.tdd.swageer\\devApiOne\\devApiOne.csproj",
         "packagesPath": "C:\\Users\\Evandio Dellatorre\\.nuget\\packages\\",
-        "outputPath": "C:\\Fontes\\visual.studio\\devApisTddSwageer\\devApiOne\\obj\\",
+        "outputPath": "C:\\Fontes\\visual.studio\\dev.apis.tdd.swageer\\devApiOne\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

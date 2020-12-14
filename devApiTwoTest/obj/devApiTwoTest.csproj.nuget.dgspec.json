@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Fontes\\visual.studio\\devApisTddSwageer\\devApiTwoTest\\devApiTwoTest.csproj": {}
+    "C:\\Fontes\\visual.studio\\dev.apis.tdd.swageer\\devApiTwoTest\\devApiTwoTest.csproj": {}
   },
   "projects": {
-    "C:\\Fontes\\visual.studio\\devApisTddSwageer\\devApiTwoTest\\devApiTwoTest.csproj": {
+    "C:\\Fontes\\visual.studio\\dev.apis.tdd.swageer\\devApiTwoTest\\devApiTwoTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Fontes\\visual.studio\\devApisTddSwageer\\devApiTwoTest\\devApiTwoTest.csproj",
+        "projectUniqueName": "C:\\Fontes\\visual.studio\\dev.apis.tdd.swageer\\devApiTwoTest\\devApiTwoTest.csproj",
         "projectName": "devApiTwoTest",
-        "projectPath": "C:\\Fontes\\visual.studio\\devApisTddSwageer\\devApiTwoTest\\devApiTwoTest.csproj",
+        "projectPath": "C:\\Fontes\\visual.studio\\dev.apis.tdd.swageer\\devApiTwoTest\\devApiTwoTest.csproj",
         "packagesPath": "C:\\Users\\Evandio Dellatorre\\.nuget\\packages\\",
-        "outputPath": "C:\\Fontes\\visual.studio\\devApisTddSwageer\\devApiTwoTest\\obj\\",
+        "outputPath": "C:\\Fontes\\visual.studio\\dev.apis.tdd.swageer\\devApiTwoTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Fontes\\visual.studio\\devApisTddSwageer\\devApiTwo\\devApiTwo.csproj": {
-                "projectPath": "C:\\Fontes\\visual.studio\\devApisTddSwageer\\devApiTwo\\devApiTwo.csproj"
+              "C:\\Fontes\\visual.studio\\dev.apis.tdd.swageer\\devApiTwo\\devApiTwo.csproj": {
+                "projectPath": "C:\\Fontes\\visual.studio\\dev.apis.tdd.swageer\\devApiTwo\\devApiTwo.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Fontes\\visual.studio\\devApisTddSwageer\\devApiTwo\\devApiTwo.csproj": {
+    "C:\\Fontes\\visual.studio\\dev.apis.tdd.swageer\\devApiTwo\\devApiTwo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Fontes\\visual.studio\\devApisTddSwageer\\devApiTwo\\devApiTwo.csproj",
+        "projectUniqueName": "C:\\Fontes\\visual.studio\\dev.apis.tdd.swageer\\devApiTwo\\devApiTwo.csproj",
         "projectName": "devApiTwo",
-        "projectPath": "C:\\Fontes\\visual.studio\\devApisTddSwageer\\devApiTwo\\devApiTwo.csproj",
+        "projectPath": "C:\\Fontes\\visual.studio\\dev.apis.tdd.swageer\\devApiTwo\\devApiTwo.csproj",
         "packagesPath": "C:\\Users\\Evandio Dellatorre\\.nuget\\packages\\",
-        "outputPath": "C:\\Fontes\\visual.studio\\devApisTddSwageer\\devApiTwo\\obj\\",
+        "outputPath": "C:\\Fontes\\visual.studio\\dev.apis.tdd.swageer\\devApiTwo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
